@@ -1,0 +1,51 @@
+.content__navbar-text{
+    display: flex;
+}
+
+#programm{
+    margin-left: 18%;
+    margin-right: 18%;
+}
+
+#facebox{
+    display: flex;
+    align-items: center;
+}
+
+#nameexit{
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#circlename{
+    display: flex;
+    align-items: center;
+}
+
+.vkandinst{
+    margin-left: 22%;
+    margin-right: 22%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media (max-width: 770px){
+    #column-1{
+        margin-left: 20px;
+        margin-right: 24px;
+    }
+    #column-2{
+        margin-left: 24px;
+        margin-right: 20px;
+        text-align: center;
+        padding-bottom: 25px;
+    }
+    #programm{
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+}
