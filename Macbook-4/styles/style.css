@@ -33,7 +33,7 @@
             align-items: center;
   }
   .columns .column {
-    min-width: 300px;
+    width: 80%;
   }
   .columns .column:not(:nth-of-type(1)) {
     margin-top: 35px;
