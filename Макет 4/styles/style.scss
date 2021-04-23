@@ -32,7 +32,7 @@ $screen-xsm-max: 350px;
         flex-direction: column;
         align-items: center;
         .column {
-            min-width: 300px;
+            width: 80%;
         }
         .column:not(:nth-of-type(1)) {
             margin-top: 35px;
