@@ -1,16 +1,18 @@
+.exit {
+    text-decoration: underline;
+}
 
-
-#programm{
+#programm {
     margin-left: 18%;
     margin-right: 18%;
 }
 
-#facebox{
+#facebox {
     display: flex;
     align-items: center;
 }
 
-#nameexit{
+#nameexit {
     margin-left: 10%;
     margin-right: 10%;
     display: flex;
@@ -18,12 +20,12 @@
     justify-content: space-between;
 }
 
-#circlename{
+#circlename {
     display: flex;
     align-items: center;
 }
 
-.vkandinst{
+.vkandinst {
     margin-left: 22%;
     margin-right: 22%;
     display: flex;
@@ -31,18 +33,18 @@
     justify-content: center;
 }
 
-@media (max-width: 770px){
-    #column-1{
+@media (max-width: 770px) {
+    #column-1 {
         margin-left: 20px;
         margin-right: 24px;
     }
-    #column-2{
+    #column-2 {
         margin-left: 24px;
         margin-right: 20px;
         text-align: center;
         padding-bottom: 25px;
     }
-    #programm{
+    #programm {
         margin-left: 5%;
         margin-right: 5%;
     }
