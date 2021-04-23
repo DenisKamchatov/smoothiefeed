@@ -2,11 +2,8 @@
     text-align: right;
 }
 .main {
-}
-.footer {
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    height: auto;
+    min-height: 87vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
