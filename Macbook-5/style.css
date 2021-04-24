@@ -26,8 +26,8 @@
 }
 
 .vkandinst {
-    margin-left: 22%;
-    margin-right: 22%;
+    max-width: 60%;
+    margin: 0 auto;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -47,5 +47,8 @@
     #programm {
         margin-left: 5%;
         margin-right: 5%;
+    }
+    .vkandinst {
+        max-width: 80%;
     }
 }
