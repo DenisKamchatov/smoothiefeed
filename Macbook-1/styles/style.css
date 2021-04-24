@@ -1,3 +1,11 @@
+body {
+    position: relative;
+    min-height: 100vh;
+}
+
 .studio {
-    text-align: right;
+    /* text-align: right; */
+    position: absolute;
+    bottom: 1vh;
+    right: 2vw;
 }

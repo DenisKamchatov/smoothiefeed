@@ -1,9 +1,19 @@
+body {
+    position: relative;
+    min-height: 100vh;
+}
 .studio {
     text-align: right;
 }
+.footer {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
 .main {
-    min-height: 87vh;
+    height: 87vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    margin-bottom: 5rem;
 }
