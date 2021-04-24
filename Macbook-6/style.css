@@ -34,6 +34,9 @@ html {
     margin: 0 auto;
     margin-bottom: 50px;
 }
+.read-next {
+    background: none;
+}
 @media (max-width: 767px) {
     .image {
         width: 37px;
